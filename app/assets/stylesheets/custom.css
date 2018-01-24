@@ -1,0 +1,54 @@
+/** --Style Navbar-- **/
+
+ul.nav.navbar-nav {
+  margin-top: 75px;
+}
+
+ul.nav.navbar-nav li {
+  font-size: 20px;
+}
+
+/** --Style Homepage-- **/
+
+.messages {
+  border-radius: 30px;
+  border: 3px solid;
+  margin-bottom: 20px;
+  padding: 15px;
+  text-align: center;
+}
+
+.message-1 {
+  color: #a6abad;
+}
+
+.message-2 {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+
+.statement-1 {
+  padding: 15px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #2b476e;
+}
+
+.statement-2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #a6abad;
+  font-size: 18px;
+  text-align: right;
+}
+
+.counter {
+  font-family: 'Cormorant Garamond', serif;
+  color: #002080;
+  background-color: #d2d2e0;
+  padding: 15px;
+  margin-top: 5px;
+}
+
+/** --Style Features Page -- **/
